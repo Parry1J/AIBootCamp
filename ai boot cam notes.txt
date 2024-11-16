@@ -1,2 +1,29 @@
+https://zoom.us/j/93051472529 
+
 axel.sirota@gmail.com
 Linkedin: Axel Sirota
+
+Barclays contact
+helendytham@barclays.com
+
+
+Today: 
+https://s3.us-east-1.amazonaws.com/courses.axel.net/Fundamentals+of+Generative+AI/PyTorch_Primer_Exercises.zip
+
+Slides: 
+https://s3.us-east-1.amazonaws.com/courses.axel.net/Fundamentals+of+Generative+AI/Foundations_Gen_AI_Slides.zip 
+
+Exercises: 
+https://s3.us-east-1.amazonaws.com/courses.axel.net/Fundamentals+of+Generative+AI/Foundations_Gen_AI_Exercises.zip 
+
+Solution: 
+https://s3.us-east-1.amazonaws.com/courses.axel.net/Fundamentals+of+Generative+AI/Foundations_Gen_AI_Solutions.zip
+
+
+Good Sites
+
+https://huggingface.co/
+
+
+Goood desi AI channels
+https://www.youtube.com/@codebasics/playlists
